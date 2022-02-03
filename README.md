@@ -1,4 +1,18 @@
-## Welcome to GitHub Pagesss
+## Data Visualizations
+### DV course website for Giulio Cappellani
+
+## Assignments
+
+
+# Other
+
+[CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/Resume.pdf)
+
+## My favourite websites
+
+- [IMDB](https://imdb.com)
+- [YouTube](https://youtube.com)
+- [Netflix](https://netflix.com)
 
 You can use the [editor on GitHub](https://github.com/gcappellani/gcappellani.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

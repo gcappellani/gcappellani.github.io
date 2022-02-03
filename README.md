@@ -3,8 +3,9 @@
 
 ## Assignments
 
+1. [Assignment 1](https://github.com/gcappellani/gcappellani.github.io/edit/main/Assignment1.pdf)
 
-# Other
+## Other
 
 [CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/Resume.pdf)
 
@@ -14,9 +15,10 @@
 - [YouTube](https://youtube.com)
 - [Netflix](https://netflix.com)
 
-You can use the [editor on GitHub](https://github.com/gcappellani/gcappellani.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 

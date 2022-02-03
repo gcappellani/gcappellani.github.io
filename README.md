@@ -1,4 +1,3 @@
-## Data Visualizations
 ### DV course website for Giulio Cappellani
 
 ## Assignments

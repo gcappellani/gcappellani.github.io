@@ -6,7 +6,7 @@
 
 ## Other
 
-[CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/Resume.pdf)
+[CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/CV.pdf)
 
 ## My favourite websites
 

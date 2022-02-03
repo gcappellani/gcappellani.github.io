@@ -2,7 +2,7 @@
 
 ## Assignments
 
-1. [Assignment 1](https://github.com/gcappellani/gcappellani.github.io/edit/main/Assignment1.pdf)
+1. [Assignment 1](https://github.com/gcappellani/gcappellani.github.io/edit/main/Assignment 1 - Giulio Cappellani.pdf)
 
 ## Other
 

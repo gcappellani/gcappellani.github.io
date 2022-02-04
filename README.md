@@ -3,6 +3,8 @@
 ## Assignments
 
 1. [Assignment 1](https://github.com/gcappellani/gcappellani.github.io/edit/main/Assignment 1 - Giulio Cappellani.pdf)
+2. Assignment 2
+  - [Task 1](https://vizhub.com/gcappellani/e806f33bd888421f8b8e48632a177f24?edit=files)
 
 ## Other
 

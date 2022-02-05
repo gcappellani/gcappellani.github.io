@@ -7,6 +7,7 @@
 2. Assignment 2
   - [Task 1](https://vizhub.com/gcappellani/e806f33bd888421f8b8e48632a177f24?edit=files)
   - [Task 2](https://vizhub.com/gcappellani/e75e6063d21e4e94b6f3386a85f6334a?edit=files)
+  - [Task 3](https://vizhub.com/gcappellani/5515d8b77ebd41468e0b5993b2f9c56f?edit=files)
 
 ## Other
 

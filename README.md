@@ -16,6 +16,12 @@
   - [Task 3](https://vizhub.com/gcappellani/500ee280c9764c35a0dd6d87552238d8?edit=files)
 
 
+4. Assignment 4
+  - [Task 1 - WITH INTERACTION](https://vizhub.com/gcappellani/7775772739ae4ad496ea5289aa78f4ae)
+  - [Task 2](https://vizhub.com/gcappellani/4d8b5959816d4accb173d17b349d1e05)
+  - [Task 3](https://vizhub.com/gcappellani/dfa1162b5bb340cc8ff566d69670b460)
+  - [Task 4](https://vizhub.com/gcappellani/cf70c79748fc4662871ecbefc27e3bdd)
+
 ## Other
 
 [CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/CV.pdf)

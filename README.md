@@ -28,6 +28,13 @@
   - [Task 2](https://vizhub.com/gcappellani/3796f5cbd91c49698bedc640fcb9f7e6)
   - [Task 3](https://vizhub.com/gcappellani/7a6e4c0472824b4fadd7d892c76d20b2)
 
+
+6. Assignment 6
+  - [Task 1](https://vizhub.com/gcappellani/1945dd12cf194affbafb531a62805031)
+  - [Task 2](https://vizhub.com/gcappellani/74015b3b854a4d0b852b9bfe63b60322)
+  - [Task 3](https://vizhub.com/gcappellani/6dca2079640146e099564eb396f6fe36)
+  - [Task 4](https://vizhub.com/gcappellani/32627068f7dd48a3b1ad73ef3f487869)
+
 ## Other
 
 [CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/CV.pdf)

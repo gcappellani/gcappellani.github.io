@@ -35,6 +35,13 @@
   - [Task 3](https://vizhub.com/gcappellani/6dca2079640146e099564eb396f6fe36)
   - [Task 4](https://vizhub.com/gcappellani/32627068f7dd48a3b1ad73ef3f487869)
 
+
+7. Assignment 7
+  - [Task 1 & 2 - Interactive with tooltips and dragging](https://vizhub.com/gcappellani/d28b0c3e58a34b40b99c72958eee99e9)
+  - [Task 2 & 3 - Interactive](https://vizhub.com/gcappellani/5cf0662c9064489f801faac6a7f145b3)
+  - [Task 3](https://vizhub.com/gcappellani/f5098f862f8942f995cf3bceb4972860)
+  
+
 ## Other
 
 [CV](https://github.com/gcappellani/gcappellani.github.io/edit/main/CV.pdf)

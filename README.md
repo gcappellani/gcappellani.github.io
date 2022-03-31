@@ -40,6 +40,11 @@
   - [Task 1 & 2 - Interactive with tooltips and dragging](https://vizhub.com/gcappellani/d28b0c3e58a34b40b99c72958eee99e9)
   - [Task 2 & 3 - Interactive](https://vizhub.com/gcappellani/5cf0662c9064489f801faac6a7f145b3)
   - [Task 3](https://vizhub.com/gcappellani/f5098f862f8942f995cf3bceb4972860)
+
+
+8. Assignment 8
+  - [Task 1, 2 & 3](https://vizhub.com/gcappellani/2ca985a593824fb3a0b33995d3df4605)
+  - [Task 4](https://vizhub.com/gcappellani/b19920dc04d04400b41e00771435eb7e)
   
 
 ## Other

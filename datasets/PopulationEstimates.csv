@@ -1,4 +1,4 @@
-FIPStxt;State;Area name;Rural-urban continuum code 2013;Population 1990;Population 2000;Population 2010;Population 2020;;;;;;
+FIPStxt,State,Area name,Rural-urban continuum code 2013,Population 1990,Population 2000,Population 2010,Population 2020,,,,,,
 00000;US;United States;;248.790.925;281.424.600;308.745.538;331.449.281;;;;;;
 01000;AL;Alabama;;4.040.389;4.447.207;4.779.736;5.024.279;;;;;;
 01001;AL;Autauga County;2;34.222;43.751;54.571;58.805;;;;;;

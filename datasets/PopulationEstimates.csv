@@ -1,6 +1,4 @@
 ﻿FIPStxt,State,name,code,pop
-00000,US,United,States,331.449.281
-01000,AL,Alabama,5.024.279,
 01001,AL,Autauga,County,2
 01003,AL,Baldwin,County,3
 01005,AL,Barbour,County,6
@@ -68,7 +66,6 @@
 01129,AL,Washington,County,8
 01131,AL,Wilcox,County,9
 01133,AL,Winston,County,6
-02000,AK,Alaska,733.391,
 02013,AK,Aleutians,East,Borough
 02016,AK,Aleutians,West,Census
 02020,AK,Anchorage,Municipality,2
@@ -103,7 +100,6 @@
 02280,AK,Wrangell-Petersburg,Census,Area
 02282,AK,Yakutat,City,and
 02290,AK,Yukon-Koyukuk,Census,Area
-04000,AZ,Arizona,7.151.502,
 04001,AZ,Apache,County,6
 04003,AZ,Cochise,County,3
 04005,AZ,Coconino,County,3
@@ -195,7 +191,6 @@
 05145,AR,White,County,4
 05147,AR,Woodruff,County,9
 05149,AR,Yell,County,6
-06000,CA,California,39.538.223,
 06001,CA,Alameda,County,1
 06003,CA,Alpine,County,8
 06005,CA,Amador,County,6
@@ -254,7 +249,6 @@
 06111,CA,Ventura,County,2
 06113,CA,Yolo,County,1
 06115,CA,Yuba,County,3
-08000,CO,Colorado,5.773.714,
 08001,CO,Adams,County,1
 08003,CO,Alamosa,County,7
 08005,CO,Arapahoe,County,1
@@ -319,7 +313,6 @@
 08121,CO,Washington,County,9
 08123,CO,Weld,County,2
 08125,CO,Yuma,County,7
-09000,CT,Connecticut,3.605.944,
 09001,CT,Fairfield,County,2
 09003,CT,Hartford,County,1
 09005,CT,Litchfield,County,4
@@ -328,13 +321,11 @@
 09011,CT,New,London,County
 09013,CT,Tolland,County,1
 09015,CT,Windham,County,2
-10000,DE,Delaware,989.948,
 10001,DE,Kent,County,3
 10003,DE,New,Castle,County
 10005,DE,Sussex,County,2
 11000,DC,District,of,Columbia
 11001,DC,District,of,Columbia
-12000,FL,Florida,21.538.187,
 12001,FL,Alachua,County,2
 12003,FL,Baker,County,1
 12005,FL,Bay,County,3
@@ -402,7 +393,6 @@
 12129,FL,Wakulla,County,2
 12131,FL,Walton,County,3
 12133,FL,Washington,County,6
-13000,GA,Georgia,10.711.908,
 13001,GA,Appling,County,7
 13003,GA,Atkinson,County,9
 13005,GA,Bacon,County,7
@@ -562,13 +552,11 @@
 13317,GA,Wilkes,County,6
 13319,GA,Wilkinson,County,8
 13321,GA,Worth,County,3
-15000,HI,Hawaii,1.455.271,
 15001,HI,Hawaii,County,5
 15003,HI,Honolulu,County,2
 15005,HI,Kalawao,County,3
 15007,HI,Kauai,County,5
 15009,HI,Maui,County,3
-16000,ID,Idaho,1.839.106,
 16001,ID,Ada,County,2
 16003,ID,Adams,County,9
 16005,ID,Bannock,County,3
@@ -613,7 +601,6 @@
 16083,ID,Twin,Falls,County
 16085,ID,Valley,County,8
 16087,ID,Washington,County,6
-17000,IL,Illinois,12.812.508,
 17001,IL,Adams,County,5
 17003,IL,Alexander,County,3
 17005,IL,Bond,County,1
@@ -716,7 +703,6 @@
 17199,IL,Williamson,County,3
 17201,IL,Winnebago,County,2
 17203,IL,Woodford,County,2
-18000,IN,Indiana,6.785.528,
 18001,IN,Adams,County,6
 18003,IN,Allen,County,2
 18005,IN,Bartholomew,County,3
@@ -809,7 +795,6 @@
 18179,IN,Wells,County,2
 18181,IN,White,County,6
 18183,IN,Whitley,County,2
-19000,IA,Iowa,3.190.369,
 19001,IA,Adair,County,8
 19003,IA,Adams,County,9
 19005,IA,Allamakee,County,6
@@ -909,7 +894,6 @@
 19193,IA,Woodbury,County,3
 19195,IA,Worth,County,9
 19197,IA,Wright,County,7
-20000,KS,Kansas,2.937.880,
 20001,KS,Allen,County,7
 20003,KS,Anderson,County,6
 20005,KS,Atchison,County,6
@@ -1015,7 +999,6 @@
 20205,KS,Wilson,County,7
 20207,KS,Woodson,County,9
 20209,KS,Wyandotte,County,1
-21000,KY,Kentucky,4.505.836,
 21001,KY,Adair,County,7
 21003,KY,Allen,County,3
 21005,KY,Anderson,County,6
@@ -1136,7 +1119,6 @@
 21235,KY,Whitley,County,7
 21237,KY,Wolfe,County,9
 21239,KY,Woodford,County,2
-22000,LA,Louisiana,4.657.757,
 22001,LA,Acadia,Parish,2
 22003,LA,Allen,Parish,6
 22005,LA,Ascension,Parish,2
@@ -1201,7 +1183,6 @@
 22123,LA,West,Carroll,Parish
 22125,LA,West,Feliciana,Parish
 22127,LA,Winn,Parish,6
-23000,ME,Maine,1.362.359,
 23001,ME,Androscoggin,County,3
 23003,ME,Aroostook,County,7
 23005,ME,Cumberland,County,2
@@ -1218,7 +1199,6 @@
 23027,ME,Waldo,County,6
 23029,ME,Washington,County,7
 23031,ME,York,County,2
-24000,MD,Maryland,6.177.224,
 24001,MD,Allegany,County,3
 24003,MD,Anne,Arundel,County
 24005,MD,Baltimore,County,1
@@ -1243,7 +1223,6 @@
 24045,MD,Wicomico,County,2
 24047,MD,Worcester,County,2
 24510,MD,Baltimore,city,1
-25000,MA,Massachusetts,7.029.917,
 25001,MA,Barnstable,County,3
 25003,MA,Berkshire,County,3
 25005,MA,Bristol,County,1
@@ -1258,7 +1237,6 @@
 25023,MA,Plymouth,County,1
 25025,MA,Suffolk,County,1
 25027,MA,Worcester,County,2
-26000,MI,Michigan,10.077.331,
 26001,MI,Alcona,County,9
 26003,MI,Alger,County,7
 26005,MI,Allegan,County,4
@@ -1342,7 +1320,6 @@
 26161,MI,Washtenaw,County,2
 26163,MI,Wayne,County,1
 26165,MI,Wexford,County,7
-27000,MN,Minnesota,5.706.494,
 27001,MN,Aitkin,County,8
 27003,MN,Anoka,County,1
 27005,MN,Becker,County,6
@@ -1430,7 +1407,6 @@
 27169,MN,Winona,County,4
 27171,MN,Wright,County,1
 27173,MN,Yellow,Medicine,County
-28000,MS,Mississippi,2.961.279,
 28001,MS,Adams,County,5
 28003,MS,Alcorn,County,7
 28005,MS,Amite,County,8
@@ -1513,7 +1489,6 @@
 28159,MS,Winston,County,7
 28161,MS,Yalobusha,County,7
 28163,MS,Yazoo,County,2
-29000,MO,Missouri,6.154.913,
 29001,MO,Adair,County,7
 29003,MO,Andrew,County,3
 29005,MO,Atchison,County,9
@@ -1629,7 +1604,6 @@
 29227,MO,Worth,County,9
 29229,MO,Wright,County,6
 29510,MO,St.,Louis,city
-30000,MT,Montana,1.084.225,
 30001,MT,Beaverhead,County,7
 30003,MT,Big,Horn,County
 30005,MT,Blaine,County,9
@@ -1686,7 +1660,6 @@
 30107,MT,Wheatland,County,9
 30109,MT,Wibaux,County,9
 30111,MT,Yellowstone,County,3
-31000,NE,Nebraska,1.961.504,
 31001,NE,Adams,County,4
 31003,NE,Antelope,County,9
 31005,NE,Arthur,County,9
@@ -1780,7 +1753,6 @@
 31181,NE,Webster,County,9
 31183,NE,Wheeler,County,9
 31185,NE,York,County,6
-32000,NV,Nevada,3.104.614,
 32001,NV,Churchill,County,6
 32003,NV,Clark,County,1
 32005,NV,Douglas,County,4
@@ -1798,7 +1770,6 @@
 32031,NV,Washoe,County,2
 32033,NV,White,Pine,County
 32510,NV,Carson,City,3
-33000,NH,New,Hampshire,1.377.529
 33001,NH,Belknap,County,4
 33003,NH,Carroll,County,6
 33005,NH,Cheshire,County,4
@@ -1809,7 +1780,6 @@
 33015,NH,Rockingham,County,1
 33017,NH,Strafford,County,1
 33019,NH,Sullivan,County,7
-34000,NJ,New,Jersey,9.288.994
 34001,NJ,Atlantic,County,2
 34003,NJ,Bergen,County,1
 34005,NJ,Burlington,County,1
@@ -1831,7 +1801,6 @@
 34037,NJ,Sussex,County,1
 34039,NJ,Union,County,1
 34041,NJ,Warren,County,2
-35000,NM,New,Mexico,2.117.522
 35001,NM,Bernalillo,County,2
 35003,NM,Catron,County,9
 35005,NM,Chaves,County,5
@@ -1865,7 +1834,6 @@
 35057,NM,Torrance,County,2
 35059,NM,Union,County,9
 35061,NM,Valencia,County,2
-36000,NY,New,York,20.201.249
 36001,NY,Albany,County,2
 36003,NY,Allegany,County,7
 36005,NY,Bronx,County,1
@@ -1928,7 +1896,6 @@
 36119,NY,Westchester,County,1
 36121,NY,Wyoming,County,6
 36123,NY,Yates,County,1
-37000,NC,North,Carolina,10.439.388
 37001,NC,Alamance,County,3
 37003,NC,Alexander,County,2
 37005,NC,Alleghany,County,9
@@ -2029,7 +1996,6 @@
 37195,NC,Wilson,County,4
 37197,NC,Yadkin,County,2
 37199,NC,Yancey,County,8
-38000,ND,North,Dakota,779.094
 38001,ND,Adams,County,9
 38003,ND,Barnes,County,6
 38005,ND,Benson,County,9
@@ -2083,7 +2049,6 @@
 38101,ND,Ward,County,5
 38103,ND,Wells,County,9
 38105,ND,Williams,County,7
-39000,OH,Ohio,11.799.448,
 39001,OH,Adams,County,6
 39003,OH,Allen,County,3
 39005,OH,Ashland,County,4
@@ -2172,7 +2137,6 @@
 39171,OH,Williams,County,6
 39173,OH,Wood,County,2
 39175,OH,Wyandot,County,7
-40000,OK,Oklahoma,3.959.353,
 40001,OK,Adair,County,6
 40003,OK,Alfalfa,County,9
 40005,OK,Atoka,County,9
@@ -2250,7 +2214,6 @@
 40149,OK,Washita,County,7
 40151,OK,Woods,County,7
 40153,OK,Woodward,County,7
-41000,OR,Oregon,4.237.256,
 41001,OR,Baker,County,7
 41003,OR,Benton,County,3
 41005,OR,Clackamas,County,1
@@ -2287,7 +2250,6 @@
 41067,OR,Washington,County,1
 41069,OR,Wheeler,County,9
 41071,OR,Yamhill,County,1
-42000,PA,Pennsylvania,13.002.700,
 42001,PA,Adams,County,3
 42003,PA,Allegheny,County,1
 42005,PA,Armstrong,County,1
@@ -2355,13 +2317,11 @@
 42129,PA,Westmoreland,County,1
 42131,PA,Wyoming,County,2
 42133,PA,York,County,2
-44000,RI,Rhode,Island,1.097.379
 44001,RI,Bristol,County,1
 44003,RI,Kent,County,1
 44005,RI,Newport,County,1
 44007,RI,Providence,County,1
 44009,RI,Washington,County,1
-45000,SC,South,Carolina,5.118.425
 45001,SC,Abbeville,County,6
 45003,SC,Aiken,County,2
 45005,SC,Allendale,County,6
@@ -2408,7 +2368,6 @@
 45087,SC,Union,County,2
 45089,SC,Williamsburg,County,6
 45091,SC,York,County,1
-46000,SD,South,Dakota,886.667
 46003,SD,Aurora,County,9
 46005,SD,Beadle,County,7
 46007,SD,Bennett,County,9
@@ -2475,7 +2434,6 @@
 46129,SD,Walworth,County,7
 46135,SD,Yankton,County,7
 46137,SD,Ziebach,County,8
-47000,TN,Tennessee,6.910.840,
 47001,TN,Anderson,County,2
 47003,TN,Bedford,County,4
 47005,TN,Benton,County,7
@@ -2571,7 +2529,6 @@
 47185,TN,White,County,7
 47187,TN,Williamson,County,1
 47189,TN,Wilson,County,1
-48000,TX,Texas,29.145.505,
 48001,TX,Anderson,County,7
 48003,TX,Andrews,County,6
 48005,TX,Angelina,County,5
@@ -2826,7 +2783,6 @@
 48503,TX,Young,County,7
 48505,TX,Zapata,County,6
 48507,TX,Zavala,County,7
-49000,UT,Utah,3.271.616,
 49001,UT,Beaver,County,7
 49003,UT,Box,Elder,County
 49005,UT,Cache,County,3
@@ -2856,7 +2812,6 @@
 49053,UT,Washington,County,3
 49055,UT,Wayne,County,9
 49057,UT,Weber,County,2
-50000,VT,Vermont,643.077,
 50001,VT,Addison,County,6
 50003,VT,Bennington,County,6
 50005,VT,Caledonia,County,7
@@ -2871,7 +2826,6 @@
 50023,VT,Washington,County,4
 50025,VT,Windham,County,7
 50027,VT,Windsor,County,7
-51000,VA,Virginia,8.631.393,
 51001,VA,Accomack,County,8
 51003,VA,Albemarle,County,3
 51005,VA,Alleghany,County,6
@@ -3007,7 +2961,6 @@
 51820,VA,Waynesboro,city,3
 51830,VA,Williamsburg,city,1
 51840,VA,Winchester,city,3
-53000,WA,Washington,7.705.281,
 53001,WA,Adams,County,6
 53003,WA,Asotin,County,3
 53005,WA,Benton,County,2
@@ -3047,7 +3000,6 @@
 53073,WA,Whatcom,County,3
 53075,WA,Whitman,County,4
 53077,WA,Yakima,County,3
-54000,WV,West,Virginia,1.793.716
 54001,WV,Barbour,County,6
 54003,WV,Berkeley,County,2
 54005,WV,Boone,County,3
@@ -3103,7 +3055,6 @@
 54105,WV,Wirt,County,3
 54107,WV,Wood,County,3
 54109,WV,Wyoming,County,6
-55000,WI,Wisconsin,5.893.718,
 55001,WI,Adams,County,8
 55003,WI,Ashland,County,7
 55005,WI,Barron,County,6
@@ -3176,7 +3127,6 @@
 55137,WI,Waushara,County,6
 55139,WI,Winnebago,County,3
 55141,WI,Wood,County,4
-56000,WY,Wyoming,576.851,
 56001,WY,Albany,County,4
 56003,WY,Big,Horn,County
 56005,WY,Campbell,County,5
@@ -3200,7 +3150,6 @@
 56041,WY,Uinta,County,7
 56043,WY,Washakie,County,7
 56045,WY,Weston,County,7
-72000,PR,Puerto,Rico,3.285.874
 72001,PR,Adjuntas,Municipio,6
 72003,PR,Aguada,Municipio,2
 72005,PR,Aguadilla,Municipio,2

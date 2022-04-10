@@ -45,6 +45,12 @@
 8. Assignment 8
   - [Task 1, 2 & 3](https://vizhub.com/gcappellani/2ca985a593824fb3a0b33995d3df4605)
   - [Task 4](https://vizhub.com/gcappellani/b19920dc04d04400b41e00771435eb7e)
+
+
+9. Assignment 9
+  - [Task 1 - Interactive with tooltips](https://vizhub.com/gcappellani/272e33fac0084e36b8d91f43ebc79280)
+  - [Task 2 - Interactive with tooltips](https://vizhub.com/gcappellani/e6ab713081534b6cbd0c9556c482549f)
+  - [Task 3 - Interactive with tooltips](https://vizhub.com/gcappellani/bf962f55bf6f493c8896cde86c2fca42)
   
 
 ## Other

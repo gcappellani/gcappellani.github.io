@@ -51,6 +51,13 @@
   - [Task 1 - Interactive with tooltips](https://vizhub.com/gcappellani/272e33fac0084e36b8d91f43ebc79280)
   - [Task 2 - Interactive with tooltips](https://vizhub.com/gcappellani/e6ab713081534b6cbd0c9556c482549f)
   - [Task 3 - Interactive with tooltips](https://vizhub.com/gcappellani/bf962f55bf6f493c8896cde86c2fca42)
+
+
+10. Assignment 10
+  - [PDF](https://vizhub.com/gcappellani/272e33fac0084e36b8d91f43ebc79280)
+  - [Task 2](https://vizhub.com/gcappellani/5c72039a5d67451a9bcc60dc43bad1bd)
+  - [Task 3 - Black Hat](https://vizhub.com/gcappellani/f2af95f4cdcd4d729069094d04939842?edit=files)
+  - [Task 3 - White Hat](https://vizhub.com/gcappellani/c9682e0c238e4aeca75d96bf6a5c4ec3?edit=files)
   
 
 ## Other

@@ -54,7 +54,7 @@
 
 
 10. Assignment 10
-  - [PDF](https://vizhub.com/gcappellani/272e33fac0084e36b8d91f43ebc79280)
+  - [PDF](https://github.com/gcappellani/gcappellani.github.io/blob/main/Assignment%2010%20-%20GCappellani.pdf)
   - [Task 2](https://vizhub.com/gcappellani/5c72039a5d67451a9bcc60dc43bad1bd)
   - [Task 3 - Black Hat](https://vizhub.com/gcappellani/f2af95f4cdcd4d729069094d04939842?edit=files)
   - [Task 3 - White Hat](https://vizhub.com/gcappellani/c9682e0c238e4aeca75d96bf6a5c4ec3?edit=files)
